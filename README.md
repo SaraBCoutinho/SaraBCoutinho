@@ -1,8 +1,13 @@
 ### ✨ Hi there 👋 ✨
 
+Welcome here! A little bit:
+- about me:
+  - 💻 I’m currently working in a project to Named-Entity Recongnition.
+  - 🌱 I’m currently learning about Large Language Models (LLM).
 
-- 🔭 I’m currently working with machine learning in a project for text classification.
-- ✨ I'm always searching insights
-- 🌱 I’m currently learning manythings about data science and artificiall intelligence.
-- 👯 I’m looking to collaborate on machine learning.
+-  about the projects:
+    - 📰 NLP: Text classification for Fake News detection using Multiple classifier system approach. 
+    - 🔎 Computer vision: Object detection and classification throw an IoT solution (AI module) to classify fruits in rotten or fresh using deep learning models (vgg and resnet) and multi-class classification.   
+
+
 
