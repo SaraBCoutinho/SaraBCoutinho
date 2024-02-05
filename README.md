@@ -2,6 +2,7 @@
 
 Welcome here! A little bit:
 - about me:
+  - 👩‍💻 I'm work with Machine learning models, data science and data analytics. 
   - 💻 I’m currently working in a project to Named-Entity Recongnition.
   - 🌱 I’m currently learning about Large Language Models (LLM).
 
