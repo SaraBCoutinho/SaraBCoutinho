@@ -2,7 +2,7 @@
 
 Welcome here! A little bit:
 - about me:
-  - 👩‍💻 I'm work with Data & AI.
+  - 👩‍💻 I work with Data & AI.
   - 🎓 I'm MSc in computer science (research in machine learning) 
   - 💻 I’m currently working in a project to Named-Entity Recongnition.
   - 🌱 I’m currently learning about Large Language Models (LLM) and prompt engineering.
