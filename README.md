@@ -2,9 +2,10 @@
 
 Welcome here! A little bit:
 - about me:
-  - 👩‍💻 I'm work with Machine learning models, data science and data analytics. 
+  - 👩‍💻 I'm work with Data a& AI.
+  - 🎓 I'm MSc in computer science (research in machine learning) 
   - 💻 I’m currently working in a project to Named-Entity Recongnition.
-  - 🌱 I’m currently learning about Large Language Models (LLM).
+  - 🌱 I’m currently learning about Large Language Models (LLM) and prompt engineering.
 
 -  about the projects:
     - 📰 NLP: Text classification for Fake News detection using Multiple classifier system approach exploring 40 heterogeneous classifiers. 
