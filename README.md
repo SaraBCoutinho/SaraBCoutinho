@@ -16,7 +16,7 @@ Welcome here! A little bit:
 
   - 💻 if you are searching for the project Pesquisa_Mestrado, please feel free to contact me! 
 
- -  🧠about my mainly skills:
+ -  about my mainly skills:
 
     [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,latex)](https://skillicons.dev)
 
