@@ -14,7 +14,7 @@ Welcome here! A little bit:
 
 - extras:
 
-  - 💻 if you are searching for the project Pesquisa_Mestrado, please feel free to contact me! 
+  - 💻 if you are searching for the project Pesquisa_Mestrado, it is placed in HSFN repository. 
 
  -  about my mainly skills:
 
