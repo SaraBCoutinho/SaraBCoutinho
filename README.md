@@ -14,7 +14,7 @@ Welcome here! A little bit:
       - project to statistics analysis for fraud detection in the fake jobs dataset.
       - project for fake news detection.
     -  ⚙️ Maintenance:
-      - prediction of failure machine type. 
+        - prediction of failure machine type. 
 
 - extras:
 
