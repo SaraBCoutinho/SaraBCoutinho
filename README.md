@@ -10,7 +10,11 @@ Welcome here! A little bit:
 -  about the projects:
   
     - 🔎 Computer vision: Object detection and classification throw an IoT solution (AI module) to classify fruits in rotten or fresh using deep learning models (vgg and resnet) and multi-class classification (6 classes).
-    - 📚 NLP:  project to Named-Entity Recongnition.
+    - 📚 NLP:
+      - project to statistics analysis for fraud detection in the fake jobs dataset.
+      - project for fake news detection.
+    -  ⚙️ Maintenance:
+      - prediction of failure machine type. 
 
 - extras:
 
